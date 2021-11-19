@@ -1,0 +1,48 @@
+https://cursos.alura.com.br/formacao-front-end
+https://cursos.alura.com.br/course/javascript-introducao
+
+No Visual Code Studio
+view -> appaerance -> show activity bar
+terminal -> new terminal
+shift+alt+seta (duplica a linha para baixo ou para cima, dependendo da seta)
+shift+alt+f (indentação automática)
+ctrl+; (comentar várias linhas)
+
+
+1 - INTRODUÇÃO A LINGUAGEM 
+O que aprendemos nessa aula:
+Usando o REPL no NodeJS
+Como imprimir valores na tela
+Declaração de variáveis
+Operadores aritméticos
+
+2 - TIPOS DE VARIÁVEIS
+Const e let
+Case Sensitive
+Adicionando comentários
+parseInt e parseFloat
+Usando números com casa decimal
+Atribuição de variáveis
+
+3 - TRABALHANDO COM MUITOS ELEMENTOS
+O que aprendemos nessa aula:
+Criação de Arrays;
+Inserção de itens em um array;
+Array splice;
+Palavras reservadas;
+Indices do array;
+
+4 - CONDICIONAIS E FLUXO DE EXECUÇÃO
+If e Else
+Operadores lógicos
+if encadeado
+else if
+&& e ||
+
+5 - ITERANDO SOBRE COLEÇÕES
+While;
+Break;
+Usando o Debbuger do VS Cde;
+Entendendo o fluxo de execução do código;
+configurando o debbuger do VSCode;
+For Loop;
